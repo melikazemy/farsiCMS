@@ -1,0 +1,25 @@
+.editModal-form{
+    background-color: var(--white);
+    width: 700px;
+    text-align: center;
+    padding: 20px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.editForm-submit{
+    border: none;
+    border-radius: 10px;
+    color: var(--blue);
+    padding: 10px;
+    margin-top: 27px;
+    margin-bottom: 20px;
+}
+.editModal-form h1{
+    color: var(--blue);
+    margin: 20px 0;
+  
+}
